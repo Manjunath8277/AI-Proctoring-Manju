@@ -1,0 +1,106 @@
+{
+  "exam_id": "EXAM_20260328_183623",
+  "start_time": "2026-03-28T18:36:23.860076",
+  "end_time": "2026-03-28T18:37:30.513450",
+  "duration_seconds": 66.7,
+  "total_violations": 13,
+  "risk_score": 130,
+  "risk_level": "HIGH",
+  "violation_counts": {
+    "MULTIPLE_PERSONS": 10,
+    "PHONE_DETECTED": 3
+  },
+  "events": [
+    {
+      "time": "18:36:37",
+      "elapsed": 13.331949472427368,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    },
+    {
+      "time": "18:36:42",
+      "elapsed": 18.46440815925598,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    },
+    {
+      "time": "18:36:47",
+      "elapsed": 23.627728939056396,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    },
+    {
+      "time": "18:36:49",
+      "elapsed": 25.761714220046997,
+      "type": "PHONE_DETECTED",
+      "severity": "CRITICAL",
+      "message": "Mobile phone detected!"
+    },
+    {
+      "time": "18:36:54",
+      "elapsed": 30.901099681854248,
+      "type": "PHONE_DETECTED",
+      "severity": "CRITICAL",
+      "message": "Mobile phone detected!"
+    },
+    {
+      "time": "18:36:54",
+      "elapsed": 30.901673316955566,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    },
+    {
+      "time": "18:37:00",
+      "elapsed": 37.0375189781189,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    },
+    {
+      "time": "18:37:03",
+      "elapsed": 39.94721961021423,
+      "type": "PHONE_DETECTED",
+      "severity": "CRITICAL",
+      "message": "Mobile phone detected!"
+    },
+    {
+      "time": "18:37:06",
+      "elapsed": 42.199997663497925,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    },
+    {
+      "time": "18:37:11",
+      "elapsed": 47.22739267349243,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    },
+    {
+      "time": "18:37:16",
+      "elapsed": 52.41183423995972,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    },
+    {
+      "time": "18:37:22",
+      "elapsed": 59.000852823257446,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    },
+    {
+      "time": "18:37:27",
+      "elapsed": 64.02301955223083,
+      "type": "MULTIPLE_PERSONS",
+      "severity": "CRITICAL",
+      "message": "Multiple persons detected"
+    }
+  ]
+}

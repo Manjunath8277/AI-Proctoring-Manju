@@ -1,0 +1,16 @@
+timestamp,elapsed_sec,event_type,severity,message
+18:36:35,11.3,SESSION_START,INFO,Proctoring session started.
+18:36:37,13.3,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:36:42,18.5,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:36:47,23.6,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:36:49,25.8,PHONE_DETECTED,CRITICAL,Mobile phone detected!
+18:36:54,30.9,PHONE_DETECTED,CRITICAL,Mobile phone detected!
+18:36:54,30.9,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:37:00,37.0,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:37:03,39.9,PHONE_DETECTED,CRITICAL,Mobile phone detected!
+18:37:06,42.2,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:37:11,47.2,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:37:16,52.4,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:37:22,59.0,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:37:27,64.0,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+18:37:30,66.7,SESSION_END,INFO,Proctoring session ended.

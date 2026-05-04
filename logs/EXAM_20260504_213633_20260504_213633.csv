@@ -1,0 +1,2 @@
+timestamp,elapsed_sec,event_type,severity,message
+21:37:20,46.9,SESSION_START,INFO,Proctoring session started.

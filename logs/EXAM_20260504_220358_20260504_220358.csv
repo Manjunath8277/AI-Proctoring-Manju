@@ -1,0 +1,21 @@
+timestamp,elapsed_sec,event_type,severity,message
+22:04:58,60.1,SESSION_START,INFO,Proctoring session started.
+22:05:15,77.1,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:05:45,107.3,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:05:51,113.0,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:05:56,118.0,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:06:03,124.9,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:06:08,130.7,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:06:15,137.0,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:06:21,143.5,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:06:29,151.0,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:06:37,159.7,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:06:45,167.1,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:06:51,173.1,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:06:59,181.4,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:08:12,254.4,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:08:39,281.4,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:08:47,289.1,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:08:52,294.7,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:08:58,300.8,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:09:03,305.9,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
