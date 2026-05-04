@@ -19,3 +19,10 @@ timestamp,elapsed_sec,event_type,severity,message
 22:08:52,294.7,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
 22:08:58,300.8,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
 22:09:03,305.9,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:09:11,312.9,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:10:46,407.9,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:10:54,416.1,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:11:00,422.5,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:11:07,429.3,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:11:13,435.8,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
+22:11:19,441.4,MULTIPLE_PERSONS,CRITICAL,Multiple persons detected
