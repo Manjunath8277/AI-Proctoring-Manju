@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/7cc00981-9976-4262-8753-a929fed08bd9
 # 🎓 AI Proctoring System
 
 An AI-based online exam proctoring system that uses **Computer Vision (OpenCV + YOLOv8)** to detect cheating behaviors in real-time during online exams.
@@ -17,7 +16,7 @@ An AI-based online exam proctoring system that uses **Computer Vision (OpenCV + 
 * 📸 **Screenshot Capture on Suspicious Activity**
 
 ---
-<img width="1599" height="1599" alt="image" src="https://github.com/user-attachments/assets/266d5189-6700-4e06-878d-9205792a166a" />
+<img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/266d5189-6700-4e06-878d-9205792a166a" />
 
 
 
